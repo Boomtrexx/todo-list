@@ -1,20 +1,23 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: Funktionsanfrage
+about: Schlag eine Idee für dieses Projekt vor
+title: 'Neue Funktion für Aufgabenpriorisierung'
+labels: 'feature-request'
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Ist deine Funktionsanfrage mit einem Problem verbunden? Bitte beschreibe es.**
+Ja, aktuell ist es schwierig, die Dringlichkeit von Aufgaben in der App zu verwalten. Es gibt keine klare Möglichkeit, Aufgaben nach Priorität zu ordnen.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Beschreibe die Lösung, die du dir wünschst**
+Ich schlage vor, eine Funktion zur Aufgabenpriorisierung hinzuzufügen. Benutzer sollten in der Lage sein, ihre Aufgaben nach Dringlichkeit zu sortieren, z. B. nach "hoch", "mittel" und "niedrig". Dies würde die Organisation von Aufgaben erheblich verbessern.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Beschreibe Alternativen, die du in Betracht gezogen hast**
+Eine alternative Lösung könnte sein, dass Benutzer ihre eigenen Tags für Prioritäten erstellen. Allerdings könnte eine integrierte Funktion für die Priorisierung die Benutzerfreundlichkeit verbessern.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Zusätzlicher Kontext**
+Hier ist ein Beispiel-Screenshot, wie die Funktion aussehen könnte:
+![Beispiel-Screenshot](link-zum-screenshot)
+
+Ich freue mich darauf, diese Funktion in Zukunft in der App zu sehen!
