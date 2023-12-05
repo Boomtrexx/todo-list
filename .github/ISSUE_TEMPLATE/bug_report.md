@@ -1,37 +1,37 @@
 ---
 name: Fehlerbericht
 about: Erstelle einen Bericht, um uns zu helfen, zu verbessern
-title: ''
-labels: ''
-assignees: ''
+title: 'Fehler bei der Anzeige von abgeschlossenen Aufgaben'
+labels: 'bug'
+assignees: 'Benutzer123'
+
 ---
 
 **Beschreibe den Fehler**
-Eine klare und prägnante Beschreibung des Fehlers.
+Beim Anzeigen der Liste abgeschlossener Aufgaben werden nicht alle Einträge korrekt dargestellt. Einige Aufgaben scheinen zu fehlen.
 
 **Reproduktionsschritte**
 Schritte, um das Verhalten zu reproduzieren:
-1. Gehe zu '...'
-2. Klicke auf '....'
-3. Scrolle nach unten zu '....'
-4. Siehe den Fehler
+1. Öffne die App und logge dich ein.
+2. Navigiere zu 'Meine Aufgaben'.
+3. Klicke auf den Tab 'Abgeschlossen'.
+4. Scrolle durch die Liste und bemerke, dass einige Aufgaben nicht angezeigt werden.
 
 **Erwartetes Verhalten**
-Eine klare und prägnante Beschreibung dessen, was du erwartet hast, dass passiert.
+Ich erwartete, dass alle abgeschlossenen Aufgaben korrekt in der Liste angezeigt werden.
 
 **Screenshots**
 Falls relevant, füge Screenshots hinzu, um das Problem zu erklären.
+![Screenshot des Fehlers](link-zum-screenshot)
 
-**Desktop (bitte fülle die folgenden Informationen aus):**
- - Betriebssystem: [z.B. Windows 10]
- - Browser [z.B. Chrome, Firefox]
- - Version [z.B. 22]
+**Desktop:**
+ - Betriebssystem: Windows 10
+ - Browser: Chrome Version 98.0.4758.102 (64-Bit)
 
-**Smartphone (bitte fülle die folgenden Informationen aus):**
- - Gerät: [z.B. iPhone 11]
- - Betriebssystem: [z.B. iOS 14]
- - Browser [z.B. Safari, Chrome]
- - Version [z.B. 22]
+**Smartphone:**
+ - Gerät: iPhone 12
+ - Betriebssystem: iOS 15.1
+ - Browser: Safari Version 15.1
 
 **Zusätzlicher Kontext**
-Füge hier jeden anderen Kontext zum Problem hinzu.
+Dieses Problem tritt sowohl in der Desktop- als auch in der mobilen Version der App auf. Es scheint unabhängig vom verwendeten Browser zu sein.
